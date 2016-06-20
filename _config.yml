@@ -5,7 +5,7 @@ welcome_message: <a href="https://github.com/hexoishexo" target="_blank">Downloa
 description: 人生真是寂寞如雪啊。
 creator: <a href="https://hexoishexo.github.io/">@hexoishexo</a>
 
-url: "https://hexoishexo.github.io"
+#url: "https://hexoishexo.github.io"
 
 permalink: /:year/:month/:title/
 
