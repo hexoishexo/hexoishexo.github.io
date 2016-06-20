@@ -5,7 +5,7 @@ subtitle: Where there's a will, there's a way.
 description: 人生真是寂寞如雪啊。
 creator: <a href="https://www.github.com/hexoishexo">@hexoishexo</a>
 
-#url: "https://hexoishexo.github.io"
+url: "https://github.com/hexoishexo"
 
 permalink: /:year/:month/:title/
 
@@ -25,7 +25,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'https://hexoishexo.github.io'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/hexoishexo'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
